@@ -1,2 +1,2 @@
 # PSscripts
-My PowerShell tolls
+My PowerShell tools
