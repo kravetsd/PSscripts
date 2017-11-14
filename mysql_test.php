@@ -1,5 +1,5 @@
 <?php
-$servername = "webapp70533";
+$servername = "webapp70533.database.windows.net";
 $username = "Dima";
 $password = "KDYkrg@7212";
 
