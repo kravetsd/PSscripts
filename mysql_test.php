@@ -1,7 +1,7 @@
 <?php
 $servername = "webapp70533.database.windows.net";
-$username = "Dima";
-$password = "KDYkrg@7212";
+$username = "*******";
+$password = "*******";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password);
